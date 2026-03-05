@@ -26,6 +26,10 @@ This model supports **two modes of disease detection**:
 -  Displays **predicted disease**, **confidence**, and **recommended cure**
 -  Simple and elegant **Tkinter GUI**
 -  Works with **Python 3.6 – 3.10**
+-  also available in desktop mode
+-  alsoo available in local hosts /web application model
+-  works on both web and os with online and offline
+- 
 
 ---
 
@@ -83,4 +87,5 @@ P.SRIRAM
 G.GOWTHAM
 V.GANGA
 K.SYAMALA
+
 D.S.P.SARWANI VOLETI
